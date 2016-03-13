@@ -1,2 +1,2 @@
 # datascience
-Test repo for NYCDSA
+Training repo for NYCDSA
